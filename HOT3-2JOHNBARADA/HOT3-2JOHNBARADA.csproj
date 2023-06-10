@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1ABDBDD-A1E8-4A58-A65A-AEAFEF8D4195}</ProjectGuid>
+    <ProjectGuid>{74BA5335-38AB-41D6-9A27-CE283BC9E58E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>AddressBookHOT3JohnBarada</RootNamespace>
-    <AssemblyName>AddressBookHOT3JohnBarada</AssemblyName>
+    <RootNamespace>HOT3_2JOHNBARADA</RootNamespace>
+    <AssemblyName>HOT3-2JOHNBARADA</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HOT3FINAL.cs">
+    <Compile Include="frmHOT3-2JOHNBARADA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="HOT3FINAL.Designer.cs">
-      <DependentUpon>HOT3FINAL.cs</DependentUpon>
+    <Compile Include="frmHOT3-2JOHNBARADA.Designer.cs">
+      <DependentUpon>frmHOT3-2JOHNBARADA.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="HOT3FINAL.resx">
-      <DependentUpon>HOT3FINAL.cs</DependentUpon>
+    <EmbeddedResource Include="frmHOT3-2JOHNBARADA.resx">
+      <DependentUpon>frmHOT3-2JOHNBARADA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

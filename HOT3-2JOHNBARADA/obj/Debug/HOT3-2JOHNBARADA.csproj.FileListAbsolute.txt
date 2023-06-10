@@ -1,0 +1,11 @@
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\bin\Debug\HOT3-2JOHNBARADA.exe.config
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\bin\Debug\HOT3-2JOHNBARADA.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\bin\Debug\HOT3-2JOHNBARADA.pdb
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3-2JOHNBARADA.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3-2JOHNBARADA.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3_2JOHNBARADA.frmAdressBook2.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3_2JOHNBARADA.Properties.Resources.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3-2JOHNBARADA.csproj.GenerateResource.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3-2JOHNBARADA.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3-2JOHNBARADA.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3-2JOHNBARADA\obj\Debug\HOT3-2JOHNBARADA.pdb

@@ -173,4 +173,9 @@ namespace HOT3GUIArrayJohnBarada
             txtFLS.Focus();
         }
     }
-}
+
+        private void lblFLS_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
