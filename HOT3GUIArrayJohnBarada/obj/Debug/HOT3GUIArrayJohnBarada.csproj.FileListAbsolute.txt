@@ -1,0 +1,6 @@
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3GUIArrayJohnBarada\obj\Debug\HOT3GUIArrayJohnBarada.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3GUIArrayJohnBarada\obj\Debug\HOT3GUIArrayJohnBarada.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3GUIArrayJohnBarada\obj\Debug\HOT3GUIArrayJohnBarada.frmAdressBook1.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3GUIArrayJohnBarada\obj\Debug\HOT3GUIArrayJohnBarada.Properties.Resources.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3GUIArrayJohnBarada\obj\Debug\HOT3GUIArrayJohnBarada.csproj.GenerateResource.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT3GUIArrayJohnBarada\HOT3GUIArrayJohnBarada\obj\Debug\HOT3GUIArrayJohnBarada.csproj.CoreCompileInputs.cache

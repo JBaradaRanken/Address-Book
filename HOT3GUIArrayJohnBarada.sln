@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOT3GUIArrayJohnBarada", "HOT3GUIArrayJohnBarada\HOT3GUIArrayJohnBarada.csproj", "{D37C65BC-3DB9-4656-81D9-0E3FA7501A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookHOT3JohnBarada", "AddressBookHOT3JohnBarada\AddressBookHOT3JohnBarada.csproj", "{A1ABDBDD-A1E8-4A58-A65A-AEAFEF8D4195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37C65BC-3DB9-4656-81D9-0E3FA7501A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37C65BC-3DB9-4656-81D9-0E3FA7501A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37C65BC-3DB9-4656-81D9-0E3FA7501A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37C65BC-3DB9-4656-81D9-0E3FA7501A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1ABDBDD-A1E8-4A58-A65A-AEAFEF8D4195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ABDBDD-A1E8-4A58-A65A-AEAFEF8D4195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ABDBDD-A1E8-4A58-A65A-AEAFEF8D4195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ABDBDD-A1E8-4A58-A65A-AEAFEF8D4195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C30D5D1-9B70-4CA5-863E-72F29CFA0267}
+	EndGlobalSection
+EndGlobal
